@@ -4,7 +4,7 @@ const Header = () => {
     <header className="bg-white p-8 shadow-md sticky w-full top-0 z-50">
     <div className="container mx-auto flex justify-between items-center">
       <div className="site-title">
-        <h1 className="text-blue-700 text-2xl font-light">John's Barbershop</h1>
+        <h1 className="text-blue-700 text-2xl font-light">Johns Barbershop</h1>
         <p className="subtitle text-blue-500 text-sm capitalize">Getting your hair ready</p>
       </div>
       <nav className="space-x-4">
@@ -23,7 +23,7 @@ const Header = () => {
       <div className="overlay absolute inset-0 flex items-center justify-center">
         <div className="landing-text text-white text-center opacity-100">
           <h3 className="font-bold pb-6 text-xl">Getting your hair ready</h3>
-          <h1 className="text-6xl font-bold mb-6">John's Barbershop</h1>
+          <h1 className="text-6xl font-bold mb-6">Johns Barbershop</h1>
           <hr className="w-20 h-1 bg-white mx-auto mb-6"/>
           <a href="appointment.html" className="bg-blue-700 text-white px-8 py-4 rounded-md">Appointment</a>
         </div>
